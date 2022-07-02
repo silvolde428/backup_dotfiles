@@ -28,4 +28,4 @@ bspc config gapless_monocle      true
 
 bspc rule -a pulsemixer state="float"
 
-feh --no-fehbg --bg-scale /home/silvolde/Pictures/girl.jpg
+feh --no-fehbg --bg-scale /home/silvolde/Pictures/Arch.png
